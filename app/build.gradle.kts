@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.taboo"
+    namespace = "com.example.myaiapp"
     compileSdk = 34
 
 

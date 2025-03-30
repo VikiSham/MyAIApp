@@ -1,7 +1,6 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -14,6 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.widget.*;
 
+import com.example.myaiapp.R;
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.util.concurrent.FutureCallback;
 
 import java.util.Random;

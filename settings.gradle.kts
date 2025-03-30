@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "taboo"
+rootProject.name = "MyAiApp"
 include(":app")
  

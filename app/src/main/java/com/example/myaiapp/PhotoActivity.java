@@ -1,9 +1,8 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
 import android.net.Uri;
 import android.os.Bundle;
@@ -27,6 +26,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.myaiapp.R;
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.util.concurrent.FutureCallback;
 
 import java.io.File;

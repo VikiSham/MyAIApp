@@ -1,4 +1,4 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 import android.graphics.Bitmap;
 
@@ -16,7 +16,6 @@ import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.util.c
 //import com.google.common.util.concurrent.FutureCallback;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 

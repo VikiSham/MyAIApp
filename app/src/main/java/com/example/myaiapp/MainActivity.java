@@ -1,22 +1,16 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-import android.widget.*;
-
-import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.util.concurrent.FutureCallback;
-
-import java.util.Random;
+import com.example.myaiapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

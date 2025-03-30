@@ -1,4 +1,4 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 import org.junit.Test;
 

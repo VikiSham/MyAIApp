@@ -1,4 +1,4 @@
-package com.example.taboo;
+package com.example.myaiapp;
 
 import android.app.ProgressDialog;
 import android.graphics.Color;
@@ -18,6 +18,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.myaiapp.R;
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.util.concurrent.FutureCallback;
 
 import kotlin.coroutines.EmptyCoroutineContext;
