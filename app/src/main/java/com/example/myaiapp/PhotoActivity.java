@@ -224,7 +224,7 @@ public class PhotoActivity extends AppCompatActivity {
             count++;
         }*/
         return FileProvider.getUriForFile(getApplicationContext(),
-                "com.example.taboo.fileProvider",
+                "com.example.myaiapp.fileProvider",
                 image);
     }
 }
